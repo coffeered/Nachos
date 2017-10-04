@@ -10,7 +10,7 @@ wget http://cc.ee.ntu.edu.tw/~farn/courses/OS/OS2017/projects/project.1/mips-x86
 wgat http://cc.ee.ntu.edu.tw/~farn/courses/OS/OS2017/projects/project.1/nachos-4.0.tar.gz
 ```
 3. Untar file
-`tar –zxvf nachos-4.0.tar.gz`
+```tar –zxvf nachos-4.0.tar.gz```
 move cross compiler to the root
 ```
 sudo mv mips-x86.linux-xgcc.tar.gz /
